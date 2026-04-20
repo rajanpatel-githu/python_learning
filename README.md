@@ -1,6 +1,10 @@
 # Python Learning Journey 🚀
 
-## Day 1: Basics of Python
+My daily Python practice and projects.
+
+---
+
+## 📅 Day 1: Basics of Python
 
 ### 📌 Topics Covered:
 - Variables
@@ -21,9 +25,18 @@
 
 ---
 
-Stay tuned for more updates as I continue learning Python! 💪
-My Daily Python Practice And Project
-Day 2:
-- Learned if-else conditions
-- Used for loop and while loop
-- Checked even and odd numbers
+## 📅 Day 2: Conditions and Loops
+
+### 📌 Topics Covered:
+- if-else conditions
+- for loop
+- while loop
+
+### 💻 What I Did:
+- Checked positive/negative numbers
+- Printed numbers using loops
+- Created even/odd checker
+
+### 🎯 Learning Outcome:
+- Learned decision making in Python
+- Understood loop concepts
