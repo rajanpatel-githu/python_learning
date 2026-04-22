@@ -39,4 +39,4 @@ My daily Python practice and projects.
 
 ### 🎯 Learning Outcome:
 - Learned decision making in Python
-- Understood loop concepts
+- Understood loop concept
